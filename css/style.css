@@ -226,6 +226,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-bottom-color: #000;
   border-width: 8px;
   margin-left: -8px;
+
 }
 .fh5co-nav ul li.has-dropdown .dropdown li {
   display: block;
